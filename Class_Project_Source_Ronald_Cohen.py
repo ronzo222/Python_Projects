@@ -1,7 +1,7 @@
 ###################################################################################
 # Class Project: Ron Cohen                                                        #
 # Python, Fall Semester, 2018                                                     #
-# GITHUB modify	001   						                                      #
+# GITHUB modify	001A  						                                      #
 # Function: Text Parser:                                                          #
 # Generates counts of chars, words, all whitespace chars, number "words"          #
 # Occurrences and positions of consecutive whitespace chars, formatted numbers    #
